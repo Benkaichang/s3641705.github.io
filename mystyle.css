@@ -1,0 +1,40 @@
+#whole-body{
+    font-family:Arial,Helvetica,Sans-serif;
+    text-align:justify;
+}
+
+.padding1{
+    padding:20px;
+}
+
+#header1 {
+    background-color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+a {text-decoration:none;}
+
+.title1{
+    
+    
+    font-size: 21px;
+}
+
+.article{
+    font-size: 19px;
+
+}
+
+#footer {
+    background-color:#dddcdb;
+    clear:both;
+    text-align:center;
+}
+
+#url1 {
+    font-size: 20px; 
+    color: #046fe9
+}
+
