@@ -1,5 +1,5 @@
-# Introduction to Information Technology 
-# Assignment 1 My Profile JINGKAI ZHANG(3641705)
+# [COSC1078]Introduction to Information Technology 
+# Assignment 1 My Profile
 
 Introduction to Information Technology
 
